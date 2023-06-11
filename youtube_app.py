@@ -1,7 +1,7 @@
 # virtualenvironment creation
 # python -m venv youtube_env 
-# to activate ctrl+shift+p
-
+# to activate ctrl+shift+p virtual env
+ 
 API_KEY='replce with your key'
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
