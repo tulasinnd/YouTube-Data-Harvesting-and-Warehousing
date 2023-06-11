@@ -2,7 +2,7 @@
 # python -m venv youtube_env 
 # to activate ctrl+shift+p
 
-API_KEY='AIzaSyC0tvq0iyU4i84OVwNkDhQ3tuVo-MBoGQs'
+API_KEY='replce with your key'
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 import json
